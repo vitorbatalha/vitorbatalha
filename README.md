@@ -9,7 +9,7 @@
 - 🧑‍💻 Atualmente cursando Engenharia de Computação na Multivix.
 - ❤️ Completamente fascinado por música e videogames.
 
-## 🚀 Skills & Tecnologias | Skills & Technologies
+## 🚀 Skills & Tecnologias
 
 - 🐍 Python
 - 💻 C
