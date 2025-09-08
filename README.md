@@ -2,7 +2,7 @@
 
 ---
 
-## 🇧🇷 Sobre mim
+## Sobre mim
 
 - 💼 **Técnico Bancário** no Banco do Estado do Espírito Santo (Banestes), atuando na área de TI.
 - 🎓 Técnico em Biotecnologia pelo Instituto Federal do Espírito Santo (IFES).
