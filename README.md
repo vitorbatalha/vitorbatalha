@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá!
+# Meu nome é Vitor.
 
-<!--
-**vitorbatalha/vitorbatalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🇧🇷 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 **Técnico Bancário** no Banco do Estado do Espírito Santo (Banestes), atuando na área de TI.
+- 🎓 Técnico em Biotecnologia pelo Instituto Federal do Espírito Santo (IFES).
+- 🧑‍💻 Atualmente cursando Engenharia de Computação na Multivix.
+- ❤️ Completamente fascinado por música e videogames.
+
+## 🚀 Skills & Tecnologias | Skills & Technologies
+
+- 🐍 Python
+- 💻 C
+
+---
+
+## 🌐 Outras redes
+
+[Twitter/X](https://x.com/arpeggii_)
+
+---
+
+<div align="center">
+  
+  > **"Don't you give up on a monday."**
+  
+</div>
