@@ -4,10 +4,9 @@
 
 ## Sobre mim
 
-- 💼 **Técnico Bancário** no Banco do Estado do Espírito Santo (Banestes), atuando na área de TI.
+- 💼 Técnico Bancário no Banco do Estado do Espírito Santo (Banestes), atuando na área de TI.
 - 🎓 Técnico em Biotecnologia pelo Instituto Federal do Espírito Santo (IFES).
 - 🧑‍💻 Atualmente cursando Engenharia de Computação na Multivix.
-- ❤️ Completamente fascinado por música e videogames.
 
 ## 🚀 Skills & Tecnologias
 
